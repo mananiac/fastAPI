@@ -39,12 +39,12 @@ Mac installation
 
 Directory Structure    
 
-`my_super_app__
-└── sql_app__
-    ├── __init__.py__
-    ├── crud.py__
-    ├── database.py__
-    ├── main.py__
-    ├── models.py__
-    └── schemas.py__
+`my_super_app<br>
+└── sql_app<br>
+    ├── <br>init<br>.py<br>
+    ├── crud.py<br>
+    ├── database.py<br>
+    ├── main.py<br>
+    ├── models.py<br>
+    └── schemas.py<br>
 `
