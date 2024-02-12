@@ -19,6 +19,9 @@ Windows installation
     `py -m pip install alembic`     
     `py -m alembic init alembic`
 
+- Start the application
+  `uvicorn main:app --reload`
+
 Mac installation 
 
 - Python 3.12
